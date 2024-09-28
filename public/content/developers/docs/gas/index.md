@@ -80,7 +80,7 @@ It's also important to note it is unlikely we will see extended spikes of full b
 
 ### Priority fee (tips) {#priority-fee}
 
-The priority fee (tip) incentivizes validators to include a transaction in the block. Without tips, validators would find it economically viable to mine empty blocks, as they would receive the same block reward. Small tips give validators a minimal incentive to include a transaction. For transactions to be preferentially executed ahead of other transactions in the same block, a higher tip can be added to try to outbid competing transactions.
+The priority fee (tip) incentivizes validators to include a transaction in the block. Without tips, validators would find it economically unviable to mine empty blocks, as they would receive the same block reward. Small tips give validators a minimal incentive to include a transaction. For transactions to be preferentially executed ahead of other transactions in the same block, a higher tip can be added to try to outbid competing transactions.
 
 ### Max fee {#maxfee}
 
